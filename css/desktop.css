@@ -1,5 +1,5 @@
 .container {
-  width: 1200px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -11,3 +11,9 @@
 .header {
   font-size: 1em;
 }
+
+/* .code { */
+/*   width: 150%; */
+/*   height: 50%; */
+/*   margin: 0%; */
+/* } */
