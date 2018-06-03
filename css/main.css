@@ -7,10 +7,15 @@
   width: 100%;
 }
 
-.blue {
+.header {
   background-color: blue;
+  text-align: right;
+  width: 80%;
+  margin: auto;
+  font-size: 0.6em;
 }
 
-.red {
-  background-color: red;
+.logo {
+  float:left;
+  width: 80px;
 }
