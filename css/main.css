@@ -1,6 +1,7 @@
 .container {
   display: flex;
   flex-wrap: wrap;
+  font-family: 'Source Sans Pro', Sans-Serif;
 }
 
 .box {
@@ -8,9 +9,8 @@
 }
 
 .header {
-  background-color: blue;
   text-align: right;
-  width: 80%;
+  width: 90%;
   margin: auto;
   font-size: 0.6em;
 }
@@ -18,4 +18,11 @@
 .logo {
   float:left;
   width: 80px;
+}
+
+.horizontal-line {
+  width: 100%;
+  height: 3px;
+  background-color: gray;
+  border: none;
 }
