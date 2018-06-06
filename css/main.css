@@ -30,6 +30,12 @@
 
 .code {
   width: 90%;
-  height: 50%;
+  height: 160px;
   margin-left: 5%;
+}
+
+.content {
+  width: 90%;
+  margin: auto;
+  font-size: 1em;
 }

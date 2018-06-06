@@ -11,3 +11,11 @@
 .header {
   font-size: 1em;
 }
+
+.code {
+  height: 300px;
+}
+
+.content {
+  font-size: 1.5em;
+}
