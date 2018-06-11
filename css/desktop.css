@@ -20,16 +20,9 @@
   font-size: 1.5em;
 }
 
-.nigiri, .pizza, .macaroons {
+.nigiri-content, .pizza-content, .macaroons-content {
+  display: inline-block;
   width: 30%;
-}
-
-.nigiri {
-  margin-right: 4%;
-}
-
-.macaroons {
-  margin-left: 4%;
 }
 
 .content-header {
