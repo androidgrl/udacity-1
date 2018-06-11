@@ -37,5 +37,15 @@
 .content {
   width: 90%;
   margin: auto;
-  font-size: 1em;
+  font-size: 1.1em;
+}
+
+.content-header {
+  margin-top: 3%;
+  color: grey;
+}
+
+.nigiri, .pizza, .macaroons {
+  width: 100%;
+  margin: auto;
 }
