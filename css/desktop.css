@@ -29,3 +29,8 @@
   margin-top: 3%;
   color: grey;
 }
+
+.featured-panels {
+  display: flex;
+  justify-content: space-between;
+}

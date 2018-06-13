@@ -37,7 +37,7 @@
 .content {
   width: 90%;
   margin: auto;
-  font-size: 1.1em;
+  font-size: 2em;
 }
 
 .content-header {
@@ -48,4 +48,10 @@
 .nigiri, .pizza, .macaroons {
   width: 100%;
   margin: auto;
+}
+
+.nigiri-content, .pizza-content, .macaroons-content {
+  background-color: gainsboro;
+  text-align: center;
+  margin-top: 10%;
 }
